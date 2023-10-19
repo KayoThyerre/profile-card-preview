@@ -11,11 +11,12 @@ Foi a primeira vez que eu realizei um projeto de css flex box utilizando o mix d
 <li> CSS
 
 # Layout do projeto pronto
+<br>
 <li> Layout desktop
-
+<br>
 <img src="./src/images/desktop-img-default.png">
-
-
+<br>
+<br>
 <li> Layout mobile
-
+<br>
 <img src="./src/images/mobile-img-default.png">
